@@ -154,9 +154,9 @@ const projects = [
     source_code_link: "https://github.com/subhunath/Myprojects/tree/main/task3",
   },
   {
-    name: "ToDoList",
+    name: "Subhashri.Fun",
     description:
-      "a list of the tasks that you have to do, or things that you want to do,each day try to mark off as many items on my to-do list as possible.",
+      "Dive into a world of excitement and entertainment with the collection of fun games. If you're looking to pass the time  we have something. Our current selection includes a variety of games that will keep you engaged and entertained for hours.",
     tags: [
       {
         name: "Html",
@@ -172,7 +172,7 @@ const projects = [
       },
     ],
     image:ToDoList,
-    source_code_link: "https://github.com/subhunath/Myprojects/blob/main/todolist.html",
+    source_code_link: "https://subhashri-games.netlify.app",
   },
   
 ];
